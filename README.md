@@ -36,7 +36,7 @@ This work bridges healthcare, cybersecurity, and data analytics, highlighting ho
 - **Academic research tools**: Google Scholar, university library databases
 
 ## 📐 Methodology
-This project uses a mixed-methods approach, combining quantitative data analysis with qualitative interpretation of cybersecurity literature and industry reports. OCR breach data (2009–2024) was collected, cleaned, and transformed using Power BI and Excel, then visualized and analyzed in Tableau to uncover patterns in breach type, location, impact, and time trends.
+This project uses a mixed-methods approach, combining quantitative data analysis with qualitative interpretation of cybersecurity literature and industry reports. OCR breach data (2009 - 2024) was collected, cleaned, and transformed using Power BI and Excel, then visualized and analyzed in Tableau to uncover patterns in breach type, location, impact, and time trends.
 
 Descriptive statistics, grouping, and calculated fields were used to categorize breach types and locations, while time-series graphs and forecasting functions were applied to model and predict breach trends. Qualitative insights from sources like the Verizon DBIR and peer-reviewed research were integrated to interpret numerical patterns, understand human and organizational factors, and propose mitigation strategies tailored to the healthcare sector.
 
